@@ -1,0 +1,10 @@
+C:\Users\faruk.ciftler\source\repos\DSScraper\DSScraper\bin\Debug\DSScraper.exe.config
+C:\Users\faruk.ciftler\source\repos\DSScraper\DSScraper\bin\Debug\DSScraper.exe
+C:\Users\faruk.ciftler\source\repos\DSScraper\DSScraper\bin\Debug\DSScraper.pdb
+C:\Users\faruk.ciftler\source\repos\DSScraper\DSScraper\obj\Debug\DSScraper.csprojAssemblyReference.cache
+C:\Users\faruk.ciftler\source\repos\DSScraper\DSScraper\obj\Debug\DSScraper.exe
+C:\Users\faruk.ciftler\source\repos\DSScraper\DSScraper\obj\Debug\DSScraper.pdb
+C:\Users\faruk.ciftler\source\repos\DSScraper\DSScraper\bin\Debug\HtmlAgilityPack.dll
+C:\Users\faruk.ciftler\source\repos\DSScraper\DSScraper\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\faruk.ciftler\source\repos\DSScraper\DSScraper\bin\Debug\HtmlAgilityPack.xml
+C:\Users\faruk.ciftler\source\repos\DSScraper\DSScraper\obj\Debug\DSScraper.csproj.CopyComplete
